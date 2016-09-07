@@ -1,0 +1,2 @@
+defmodule Excala do
+end
